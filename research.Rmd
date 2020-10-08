@@ -1,0 +1,18 @@
+---
+title: "RESEARCH"
+
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+#### ...site under construction...
+
+
+
+
+<img src="IMG_20190616_121625.jpg" align="right">

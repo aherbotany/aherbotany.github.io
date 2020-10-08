@@ -1,6 +1,6 @@
 name: "Adriana I Hernandez"
 navbar:
-  title: ""
+  title:
   left:
     - text: "HOME"
       href: index.html

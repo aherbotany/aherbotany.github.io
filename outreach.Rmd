@@ -1,0 +1,20 @@
+---
+title: "OUTREACH"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+#### As a graduate student, I have focused my efforts on mentoring URM undergraduate students through research experiences, workshops, and graduate school recruitment. 
+
+<br>
+
+#### I support fellow graduate students through fellowship application workshops and events.
+
+<br>
+
+#### At a broader level, I serve on the Diversity Council for the School of Integrative Plant Science at Cornell.
