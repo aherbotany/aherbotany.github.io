@@ -1,0 +1,13 @@
+name: "Adriana I Hernandez"
+navbar:
+  title: "Adriana I Hernandez"
+  left:
+    - text: "HOME"
+      href: index.html
+    - text: "RESEARCH"
+      href: research.html
+    - text: "CV"
+      href: CV.html
+    - text: "CONTACT"
+      href: contact.html
+output_dir: "."
