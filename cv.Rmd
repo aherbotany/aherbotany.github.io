@@ -2,6 +2,7 @@
 title: "CV in brief"
 output: html_document
 ---
+
 ## Education
 #### Ph.D. CORNELL UNIVERSITY, School of Integrative Plant Science, Plant Biology Section, Ithaca, New York (2017 - Present)
 #### B.A. UNIVERSITY OF CALIFORNIA, SANTA BARBARA, Department of Ecology, Evolution and Marine Biology & Department of Molecular, Cellular and Developmental Biology, Santa Barbara, California (2007-2011)  
@@ -10,6 +11,7 @@ output: html_document
 
 ## Research
 #### *please see "Research" tab
+
 <br>
 
 ## Experience
