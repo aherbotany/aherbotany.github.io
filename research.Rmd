@@ -12,7 +12,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### ...site under construction...
 
+##### The Population Dynamics and Evolutionary History of the Highly Polymorphic Calochortus venustus (Liliaceae)
 
+##### Floral eco-evo-devo across floral syndromes in Calochortus (Liliaceae)
+
+##### Genotyping using microsatellites shows strong genetic differentiation among populations of the Channel Islands endemic Malva assurgentiflora, Malvaceae.
+
+##### Using spatial phylogenetics to inform conservation at the archipelago-scale: an introduction to the Channel Islands Phylodiversity Project
 
 
 <img src="IMG_20190616_121625.jpg" align="right">
