@@ -9,7 +9,7 @@ navbar:
     - text: "OUTREACH"
       href: outreach.html
     - text: "CV"
-      href: cv.html
+      href: CV.html
     - text: "CONTACT"
       href: contact.html
 output_dir: "."
