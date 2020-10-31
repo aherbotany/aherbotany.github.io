@@ -7,12 +7,14 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<img src="IMG_20190616_121625.jpg" height="45%" width="45%">
 
 <br>
 
-#### ...site under construction...
+ ...site under construction...
 
-##### The Population Dynamics and Evolutionary History of the Highly Polymorphic Calochortus venustus (Liliaceae)
+##### The Population Dynamics and Evolutionary History of the Highly Polymorphic Calochortus venustus (Liliaceae)  
+> ##### My interest in biogeography led me to investigate how landscape and environmental heterogeneity shapes genetic and phenotypic diversity in this hyper-variable system. *C. venustus* is a California endemic found in grasslands, woodlands, and at its highest elevations in pine forests. They are generally distributed throughout the Coast Ranges, Transverse Ranges and Tehapachi Mountains, and Sierra Nevada foothills. These late bloomers are sure to catch your eye.
 
 ##### Floral eco-evo-devo across floral syndromes in Calochortus (Liliaceae)
 
@@ -20,5 +22,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ##### Using spatial phylogenetics to inform conservation at the archipelago-scale: an introduction to the Channel Islands Phylodiversity Project
 
+<br>
 
-<img src="IMG_20190616_121625.jpg" align="right">
+A sample of the hyper-variable phenotypic diversity in *Calochortus venustus*
+<img src= "Cven_diversity_original.png" height="55%" width="55%">
