@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-##### ...this site is under construction ...
+##### ...*this site is under construction* ...
 
 
 <img src="IMG_7077.JPG" height="45%" width="45%">
