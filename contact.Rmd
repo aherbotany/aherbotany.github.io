@@ -7,7 +7,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-Feel free to reach out to chat about research, DEI in academia, or anything related to California flora!
+#### Feel free to reach out to chat about research, DEI in academia, or anything related to California flora!
 
 <br>
 
@@ -19,3 +19,5 @@ Feel free to reach out to chat about research, DEI in academia, or anything rela
 ## Twitter
 
 ## @[calobot](https://twitter.com/calobot)
+
+<img src="sun.jpg" height="45%" width="45%">

@@ -1,0 +1,35 @@
+---
+title: ""
+
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<br>
+
+##### When I'm not hunting for plants throughout California, you can usually find me with my partner, Carlos, bicycling around the Cayuga Lake waterfront, doing yoga from home, experimenting with baking or my family's recipes for traditional Mexican cuisine, or discussing Native American religious traditions.
+
+Carlos and me hunting for *Calochortus* at Mt. Pinos 
+
+<img src="me_babsy_pinos.jpg" height="55%" width="55%">
+
+
+
+
+
+Carlos heading off for a cruise 
+
+<img src="motor_babsy.jpg" height="45%" width="45%">
+
+
+
+
+Some fun and tasty food we made
+
+<img src= "space_cupcake.jpg" height="25%" width="25%"> <img src="nopal.jpg" height="45%" width="45%">
+
+<br>
+
+ ...*site under construction*...

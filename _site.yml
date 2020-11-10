@@ -10,6 +10,8 @@ navbar:
       href: outreach.html
     - text: "CV"
       href: cv.html
+    - text: "MISC"
+      href: misc_me.html
     - text: "CONTACT"
       href: contact.html
 output_dir: "."
