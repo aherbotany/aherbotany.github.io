@@ -21,6 +21,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### I support fellow graduate students through fellowship application workshops and events.
 
-<br>
-
 #### At a broader level, I serve on the Diversity Council for the School of Integrative Plant Science at Cornell.
