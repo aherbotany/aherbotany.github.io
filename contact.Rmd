@@ -1,5 +1,5 @@
 ---
-title: "Contact me"
+title: ""
 
 output: html_document
 ---
@@ -7,6 +7,8 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<br>
+
 #### Feel free to reach out to chat about research, DEI in academia, or anything related to California flora!
 
 <br>
