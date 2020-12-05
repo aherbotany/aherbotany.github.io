@@ -28,7 +28,7 @@ output: html_document
 
 <br>
 
-## **Fellowships and Awards**
+## **Academic Fellowships**
 #### NSF Graduate Research Program Fellow (2019 - Present)
 #### NextGen Professors Program, Cornell (2019 - 2020 cohort)
 #### Yale Ciencia Academy Fellow (2018 - 2019 cohort)
@@ -36,10 +36,7 @@ output: html_document
 <br>
 
 ## **Teaching**
-#### Graduate Teaching Assistant. PLBIO 2300 Field Lab in Global Plant Biodiversity & Vegetation, Undergrad Course, SIPS Plant Biology Section, Cornell University. (Winter 2020, Winter 2019)
-#### Graduate Teaching Assistant. BIOG1140 Foundations in Biology, Undergrad Course, Dept. of Neurobiology and Behavior, Cornell University. (Fall 2018)
-#### Graduate Teaching Assistant. PLBIO 2410 Plant Biodiversity & Evolution, Undergrad Course, SIPS Plant Biology Section, Cornell University. (Fall 2017)
-
+#### *please see "Teaching" tab
 
 
 <br>
