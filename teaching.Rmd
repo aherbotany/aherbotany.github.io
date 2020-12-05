@@ -1,6 +1,5 @@
 ---
 title: "Teaching experience and philosophy"
-
 output: html_document
 ---
 
