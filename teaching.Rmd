@@ -1,6 +1,7 @@
 ---
-title: ""
-output: github_document
+title: "Teaching experience and philosophy"
+
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
@@ -16,6 +17,8 @@ knitr::opts_chunk$set(echo = TRUE)
 #####  + PLBIO 2300 Field Lab in Global Plant Biodiversity & Vegetation, Undergrad Course, SIPS Plant Biology Section, Cornell University. (Winter 2019)  
 #####  + BIOG 1140 Foundations in Biology, Undergrad Course, Dept. of Neurobiology and Behavior, Cornell University. (Fall 2018)  
 #####  + PLBIO 2410 Plant Biodiversity & Evolution, Undergrad Course, SIPS Plant Biology Section, Cornell University. (Fall 2017)  
+
+<br>
 
 ##### As a senior undergraduate student at UCSB, I also assisted in courses focused on the intersection of religion and ecology:  
 #####  + Teaching Assistant & Guest Lecturer. Native American Religious Traditions & Ecology, Undergrad Course, co-listed in Religious Studies Dept. and Environmental Studies Dept., University of California, Santa Barbara. (Summer and Fall 2011)  
