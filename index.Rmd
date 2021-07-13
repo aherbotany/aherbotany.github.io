@@ -9,23 +9,25 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <br>
+<img src="IMG_7259.JPG" align="right" height="35%" width="35%"> 
 
-## About me, in brief
+## Adriana I. Hernandez
+### PhD Candidate
+### Cornell University
 
 <br>
 
-#### Welcome! This is my personal website
+#### About me, in brief
 
-<img src="IMG_7259.JPG" align="right" height="35%" width="35%"> 
+#### Welcome to my personal website
 
-#### I am a 4th year Ph.D. Candidate in [Dr. Chelsea Specht's lab](https://blogs.cornell.edu/specht/) at Cornell University, School of Integrative Plant Science, Plant Biology Section. My dissertation research focuses on the population genetics, floral trait evolution, and ecological diversity of mariposa lilies, <i>Calochortus</i> (Liliaceae).
+#### My passion for exploring the natural world and learning natural history has driven me to a research career in plant evolutionary biology.
+
+#### I am a rising 5th year Ph.D. Candidate in [Dr. Chelsea Specht's lab](https://blogs.cornell.edu/specht/) at Cornell University, School of Integrative Plant Science, Plant Biology Section. My dissertation research focuses on the **population genetics, the genomics and floral trait evolution, and the ecological diversity of mariposa lilies, <i>Calochortus</i>** (Liliaceae).
 
 #### My other passion is creating space and support for historically marginalized communities in science and academia. As a first-generation immigrant and first-generation scholar, I recognize that my success is built upon the guidance of mentors. I strive to mentor and uplift historically marginalized students into higher education.
 
 <br>
 
-##### ...*this site is under construction* ...
 
-
-<img src="IMG_7077.JPG" height="45%" width="45%">
-
+<img src="Adriana in carrizo fields of _maybe_ layia and monolopia_and goldfields.jpg" align="center" height="60%" width="60%">
