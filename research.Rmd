@@ -42,7 +42,6 @@ Hernandez et al. (submitted)
 > + mariposas (eg. [*C. argillosus*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjP6MP9hvnsAhXlmHIEHezyCyIQFjAAegQIAxAC&url=https%3A%2F%2Fwww.calflora.org%2Fcgi-bin%2Fspecies_query.cgi%3Fwhere-calrecnum%3D1268&usg=AOvVaw1diuqnNmPb2NifdoTYlBuN))
 > + fairy lanterns (eg. [*C. pulchellus*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiuwfbahvnsAhX2kHIEHYA3DUQQFjAAegQIBhAC&url=https%3A%2F%2Fwww.calflora.org%2Fcgi-bin%2Fspecies_query.cgi%3Fwhere-calrecnum%3D1303&usg=AOvVaw2QBlS14i0aU7FA141dy843))
 > + star tulips (eg. [*C. umbellatus*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiqqqKUh_nsAhXtlnIEHRFBCHsQFjAAegQIBhAC&url=https%3A%2F%2Fwww.calflora.org%2Fcgi-bin%2Fspecies_query.cgi%3Fwhere-taxon%3DCalochortus%2Bumbellatus&usg=AOvVaw3GjaZMJSXjlN0XoH3Of28k))
-
 > ##### We are utilizing an **RNA-Seq** approach to characterize gene expression and identify differentially expressed genes, or candidate genes, responsible for floral traits. We are also sequencing low coverage genomes to perform **genomic scans** for divergent selection between representative species from each floral syndrome.
 
 <img src="IMG_20190616_121625.jpg" height="45%" width="45%">
