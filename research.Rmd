@@ -11,7 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
- ...site under construction...
 
 ##### **The Population Dynamics and Evolutionary History of the Highly Polymorphic <i>Calochortus venustus</i> (Liliaceae)**  
 > ##### My interest in biogeography led me to investigate how landscape and environmental heterogeneity shapes genetic and phenotypic diversity in this hyper-variable system. *Calochortus venustus* is a California endemic found in grasslands, woodlands, and at its highest elevations in pine forests. They are generally distributed throughout the Coast Ranges, Transverse Ranges and Tehapachi Mountains, and Sierra Nevada foothills. A population genetics approach using RAD-Sequencing reveals gene flow is shared across morphotypes (petal pigmentation and patterning), and populations remain interconnected throughout mountain ranges surrounding the Central Valley.
