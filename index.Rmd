@@ -28,5 +28,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 <img src="IMG_7077.JPG" height="45%" width="45%">
-<img src="IMG_20190616_121203.jpg" align="right" height="35%" width="35%">
 
