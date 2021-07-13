@@ -1,5 +1,5 @@
 ---
-title: "RESEARCH"
+title: "Research"
 
 output: html_document
 ---
@@ -26,10 +26,10 @@ Hernandez et al. (submitted)
 
 <img src= "gxe_venndiagram.png" align="left" height="30%" width="30%">
 
-> ##### One of the central goals of evolutionary biology and ecology is to understand the process of adaptation to new environments, such as with range expansion. I am leveraging results from our population genetics study that suggest gene flow between phenotypes and parallel evolution of petal color in order to identify candidate loci under selection. **There is much to be investigated about whether repeated adaptation is driven by a few select loci, global standing genetic variation, or if there are no genetic constraints on repeated local adaptation.** By *integrating* across three commonly used methods, I am working to identify and narrow down candidate markers in a non-model plant system responsible for:
+> ##### One of the central goals of evolutionary biology and ecology is to understand the process of adaptation to new environments, such as with range expansion. I am leveraging results from our population genetics study which provide evidence of gene flow between phenotypes and parallel evolution of petal color in order to identify candidate loci under selection. **There is much to be investigated about whether repeated adaptation is driven by a few select loci, global standing genetic variation, or if there are no genetic constraints on repeated local adaptation.** By *integrating* across three commonly used methods, I am working to identify and narrow down candidate markers in a non-model plant system responsible for:
 1. Parallel evolution of white petal pigmentation in northern populations hypothesized to be driven by ecological adaptation.
-2. Petal spot variation (presence/absence, size of UV reflective spot)
-3. Hypervariable petal pigmentation in the visual spectrum.
+2. Petal spot variation (presence/absence, size of UV reflective spot) which shows a pattern of east-west phenotypic differentiation.
+3. Hypervariable petal pigmentation with the most polymorphic populations being in southern and high altitudes.
 
 
 
@@ -42,6 +42,7 @@ Hernandez et al. (submitted)
 > + mariposas (eg. [*C. argillosus*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjP6MP9hvnsAhXlmHIEHezyCyIQFjAAegQIAxAC&url=https%3A%2F%2Fwww.calflora.org%2Fcgi-bin%2Fspecies_query.cgi%3Fwhere-calrecnum%3D1268&usg=AOvVaw1diuqnNmPb2NifdoTYlBuN))
 > + fairy lanterns (eg. [*C. pulchellus*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiuwfbahvnsAhX2kHIEHYA3DUQQFjAAegQIBhAC&url=https%3A%2F%2Fwww.calflora.org%2Fcgi-bin%2Fspecies_query.cgi%3Fwhere-calrecnum%3D1303&usg=AOvVaw2QBlS14i0aU7FA141dy843))
 > + star tulips (eg. [*C. umbellatus*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiqqqKUh_nsAhXtlnIEHRFBCHsQFjAAegQIBhAC&url=https%3A%2F%2Fwww.calflora.org%2Fcgi-bin%2Fspecies_query.cgi%3Fwhere-taxon%3DCalochortus%2Bumbellatus&usg=AOvVaw3GjaZMJSXjlN0XoH3Of28k))
+
 > ##### We are utilizing an **RNA-Seq** approach to characterize gene expression and identify differentially expressed genes, or candidate genes, responsible for floral traits. We are also sequencing low coverage genomes to perform **genomic scans** for divergent selection between representative species from each floral syndrome.
 
 <img src="IMG_20190616_121625.jpg" height="45%" width="45%">

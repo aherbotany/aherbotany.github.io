@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 <br>
 
-#### Feel free to reach out to chat about research, DEI in academia, or anything related to California flora!
+#### Please feel free to reach to me about research, DEI in academia, or anything related to California flora!
 
 <br>
 

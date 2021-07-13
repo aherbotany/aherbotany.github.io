@@ -9,15 +9,28 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>  
 
-##### When I was an undergraduate student in biology at the University of California Santa Barbara, my home was in the Native American and Indigenous Studies Program in the office of Dr. Inés Talamantez. Inés welcomed my perspective as a first-generation immigrant, the first in my family to attend college, and a woman who struggled to merge traditional Mexican culture with Western academia. As an indigenous woman, Inés taught me that like much of institutionalized American culture, our perspective of scholarship is dominated by Eurocentric ideals. The lack of representation and inclusion deters many great minds from engaging in academia. This has largely shaped my teaching philosophy to engage students on a personal level and tailor my teaching, in order to cultivate an inclusive and supportive setting.  
+<img src= "20171115_122506_cropped.jpg" align="center" height="70%" width="80%">
+<br clear="center"/>
+<br>
+
+#### Background
+
+##### When I was an undergraduate student in biology at the University of California, Santa Barbara, my home was in the Native American and Indigenous Studies Program in the office of Dr. Inés Talamantez. Inés welcomed my perspective as a first-generation immigrant, the first in my family to attend college, and a woman who struggled to merge traditional Mexican culture with Western academia. As an indigenous woman, Inés taught me that like much of institutionalized American culture, our perspective of scholarship is dominated by Eurocentric ideals. The lack of representation and inclusion deters many great minds from engaging in academia, research, and higher education overall. This has largely shaped my teaching philosophy to engage students on a personal level and tailor my teaching to cultivate an inclusive and supportive setting.  
 
 <br>
 
-##### In my time as a graduate student at Cornell, I have been appointed teaching assistantships in plant evolution and plant biodiversity for plant science majors, and in general biology for non-majors:   
+<img src= "IMG_20200108_112820.jpg" align="right" height="40%" width="40%">
+
+#### Teaching Assistantships
+
+##### In my time as a graduate student at Cornell, I have been appointed teaching assistantships in **plant evolution and biodiversity** and **field biology** for plant science majors, and in general biology for non-majors:   
+
 #####  + PLBIO 2300 Field Lab in Global Plant Biodiversity & Vegetation, Undergrad Course, SIPS Plant Biology Section, Cornell University. (Winter 2020)  
 #####  + PLBIO 2300 Field Lab in Global Plant Biodiversity & Vegetation, Undergrad Course, SIPS Plant Biology Section, Cornell University. (Winter 2019)  
 #####  + BIOG 1140 Foundations in Biology, Undergrad Course, Dept. of Neurobiology and Behavior, Cornell University. (Fall 2018)  
-#####  + PLBIO 2410 Plant Biodiversity & Evolution, Undergrad Course, SIPS Plant Biology Section, Cornell University. (Fall 2017)  
+#####  + PLBIO 2410 Plant Biodiversity & Evolution, Undergrad Course, SIPS Plant Biology Section, Cornell University. (Fall 2017) 
+
+<br clear="right"/>
 
 <br>
 

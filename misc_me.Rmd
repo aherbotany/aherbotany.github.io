@@ -31,5 +31,3 @@ Some fun and tasty food we made
 <img src= "space_cupcake.jpg" height="25%" width="25%"> <img src="nopal.jpg" height="45%" width="45%">
 
 <br>
-
- ...*site under construction*...
