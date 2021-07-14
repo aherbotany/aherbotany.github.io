@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Welcome to my personal website
 
-#### About me, in brief
+#### **About me, in brief**
 
 #### My passion for exploring the natural world and learning natural history has driven me to a research career in plant evolutionary biology.
 

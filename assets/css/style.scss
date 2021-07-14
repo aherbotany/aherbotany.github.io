@@ -1,8 +1,13 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{{ jekyll-theme-cayman }}";
+
+/* None of these edits to the theme are working! */
+
 .page-header {
-  color: "#3A6152";
-  background-color: "#3A6152";
+    background-color: #3A6152;
+}
+navbar-img: "banner_cven_pinos2017_horizontal.jpg";
+
 avatar: "banner_cven_pinos2017_horizontal.jpg";
