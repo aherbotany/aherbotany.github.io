@@ -5,52 +5,5 @@ output: html_document
 
 <br>
 
-### **Education**
-#### Ph.D. CORNELL UNIVERSITY, School of Integrative Plant Science, Plant Biology Section, Ithaca, New York (2017 - Present)
-#### B.A. UNIVERSITY OF CALIFORNIA, SANTA BARBARA, Department of Ecology, Evolution and Marine Biology & Department of Molecular, Cellular and Developmental Biology, Santa Barbara, California (2007-2011)  
-<br>
-
-### **Academic Fellowships**
-#### NSF Graduate Research Program Fellow (2019 - Present)
-#### NextGen Professors Program, Cornell (2019 - 2020 cohort)
-#### Yale Ciencia Academy Fellow (2018 - 2019 cohort)
-
-
-<br>
-
-
-### **Experience**
-#### Senior Lab Technician. The University & Jepson Herbaria of the University of California at Berkeley & the Department of Plant & Microbial Biology, University of California, Berkeley. Supervisor: Dr. Chelsea Specht. (2017)
-#### Conservation Technician. Conservation & Research Department, Santa Barbara Botanic Garden, Santa Barbara, California. Supervisor: Dr. Matthew C. Guilliams. (2016 - 2017)
-#### Research & Editorial Assistant. Religious Studies Department and Chicano Studies Department, University of California, Santa Barbara. Supervisor: Dr. Ines M. Talamantez. (2010 - 2012)
-<br>
-
-### **Selected talks**
-#### Hernandez, A.I., Landis, J.B.L., and Specht, C.D. The Population Dynamics and Evolutionary History of the Highly Polymorphic Calochortus venustus (Liliaceae). Botany 2020 Virtual (virtual) July 27-31, 2020.
-#### Hernandez, A.I. Developing Calochortus venustus as a model system to understand petal pigment diversity. SIPS Plant Biology Section Seminar (virtual), April 24, 2020. https://vod.video.cornell.edu/media/SIPS+Section+Seminars/1_0ghta1oh
-
-
-<br>
-
-### **Service**
-
-#### School of Integrative Plant Science Diversity Council, Cornell University (2020 - )
-#### Co-leader, Diversity Preview Weekend, Cornell University (2020 - )
-#### Graduate Student Representative of the Human Diversity Committee, Botanical Society of America (2019-2022)
-#### Founding Member of the Botanical Society of America Cornell Chapter (2019)
-
-
-<br>
-
-### Research
-#### please see "Research" tab
-
-<br>
-
-### Teaching
-#### please see "Teaching" tab
-
-<br>
-
-### Community Engagement  
-#### please see "Outreach" tab
+<embed src="https://blogs.cornell.edu/specht/files/2021/05/AIH_CV_4_2021_rf.pdf" width="500" height="375" 
+ type="application/pdf">
