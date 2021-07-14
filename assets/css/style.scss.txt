@@ -1,8 +1,0 @@
----
----
-
-@import "{{ site.theme }}";
-.page-header {
-  color: "#3A6152";
-  background-color: $header-bg-color;
-avatar: "banner_cven_pinos2017_horizontal.jpg";
