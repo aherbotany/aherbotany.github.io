@@ -1,9 +1,11 @@
 ---
-title: "CV in brief"
+title: ""
 output: html_document
 ---
 
 <br>
+
+### Curriculum Vitae as of April 2021
 
 <embed src="https://blogs.cornell.edu/specht/files/2021/05/AIH_CV_4_2021_rf.pdf" width="500" height="375" 
  type="application/pdf">
