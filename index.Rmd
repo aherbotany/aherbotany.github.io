@@ -17,13 +17,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-#### Welcome to my personal website
 
-##### *About me, in brief*
+##### *About me, in brief*  
 
-#### My passion for exploring the natural world and learning natural history has driven me to a research career in plant evolutionary biology.
+#### My passion for biodiversity studies and exploring natural history has driven me to a research career in plant evolutionary biology.  
 
-#### I am a rising 5th year Ph.D. Candidate in [Dr. Chelsea Specht's lab](https://blogs.cornell.edu/specht/) at Cornell University, School of Integrative Plant Science, Plant Biology Section. My dissertation research focuses on the **population genetics, the genomics and floral trait evolution, and the ecological diversity of mariposa lilies, <i>Calochortus</i>** (Liliaceae).
+<br>
+
+#### I am a rising 5th year Ph.D. Candidate in [Dr. Chelsea Specht's lab](https://blogs.cornell.edu/specht/) at Cornell University, School of Integrative Plant Science, Plant Biology Section. My dissertation research focuses on the **population genetics and biogeography, comparative genomics and transcriptomics of floral trait evolution, and the ecological diversity of mariposa lilies, <i>Calochortus</i>** (Liliaceae).  
 
 #### My other passion is creating space and support for historically marginalized communities in science and academia. As a first-generation immigrant and first-generation scholar, I recognize that my success is built upon the guidance of mentors. I strive to mentor and uplift historically marginalized students to pursue their goals in higher education and research.
 
