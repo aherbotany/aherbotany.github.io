@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ##### **Recruitment of historically excluded students into STEM graduate programs**
 SACNAS Cornell Chapter [(Society for Advancement of Chicanos/Hispanics and Native Americans in Science)](https://www.sacnas.org/) at the 2019 SACNAS National Diversity in STEM Conference. I was appointed as a Graduate Student Ambassador by the Graduate School at Cornell to recruit undergraduate students into our graduate programs.
 
-<img src="SACNAS 2019 Graduate Student Ambassadors _for recruitment.jpg" height="45%" width="45%">
+<img src="SACNAS 2019 Graduate Student Ambassadors _for recruitment.jpg" align="center" height="45%" width="45%">
 
 
 I serve as a Co-leader and Mentorship Committee Chair for Cornell's Diversity Preview Weekend [(DPW)](http://www.cornelldpw.org/) which aims to provide a transparent perspective on applying to graduate school and being a successful student. I chair the Mentorship Committee which pairs DPW participants with Cornell graduate students to gain feedback on their application materials. We generate workshop material for graduate student mentors to learn how to effectively provide constructive feedback to prospective graduate students on their CVs and personal statements, as well as creating guidelines and providing resources for prospective students to follow as they draft their statements and CVs.
@@ -41,6 +41,6 @@ Graduate student panels provide an opportunity for open communication and engage
 
 > In another year of [Expanding Your Horizons](https://www.eyh.cornell.edu/virtualEYH/activities.php), I helped run a workshop on cellular biology and microscopy through hands-on experiments in the classroom.
 
-><img src="EYH_2019.jpg" height="40%" width="40%">
+><img src="EYH_2019.JPG" align="center" height="40%" width="40%">
 
 <br>
