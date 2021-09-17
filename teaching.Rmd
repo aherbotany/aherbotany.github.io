@@ -9,8 +9,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>  
 
-<img src= "20171115_122506_cropped.jpg" align="center" height="70%" width="80%">
-<br clear="center"/>
+<p align="center"><img src= "20171115_122506_cropped.jpg" align="center" height="70%" width="80%">
+<br clear="center"/></p>
 <br>
 
 #### Background

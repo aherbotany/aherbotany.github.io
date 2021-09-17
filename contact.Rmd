@@ -22,4 +22,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## @[calobot](https://twitter.com/calobot)
 
-<img src="sun.jpg" height="45%" width="45%">
+<img src="sun.jpg" height="35%" width="35%">

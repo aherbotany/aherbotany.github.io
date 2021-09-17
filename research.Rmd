@@ -45,7 +45,7 @@ Hernandez, Landis, & Specht (*in review*)
 
 > ##### We are utilizing an **RNA-Seq** approach to characterize gene expression and identify differentially expressed genes, or candidate genes, responsible for floral traits. We are also sequencing low coverage genomes to perform **genomic scans** for divergent selection between representative species from each floral syndrome.
 
-<img src="IMG_20190616_121625.jpg" height="45%" width="45%">
+<p align="center"><img src="IMG_20190616_121625.jpg" height="45%" width="45%"></p>
 
 
 
