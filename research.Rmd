@@ -52,7 +52,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ##### **I regularly present my work at national conferences, symposia for professional societies, and invited seminars.**
 
 
-<p align="center"><img src="IMG_20190616_121625.jpg" height="45%" width="45%"></p>
+<p align="center"><img src="IMG_20190616_121625.jpg" height="45%" width="40%"></p>
 
 
 
