@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 > ##### My interest in biogeography led me to investigate how landscape and environmental heterogeneity shapes genetic and phenotypic diversity in this hyper-variable system. *Calochortus venustus* is an herbaceous California endemic bulb found in grasslands, woodlands, and at its highest elevations in pine forests surrounding the Central Valley of California. They are generally distributed throughout the Coast Ranges, Transverse Ranges and Tehapachi Mountains, and Sierra Nevada foothills. I used a population genetics approach using **RAD-Sequencing** to characterize the population dynamics and genetic diversity of this system which revealed that gene flow is shared across morphotypes (of various petal pigments and patterns), and that populations remain interconnected throughout mountain ranges surrounding the Central Valley. Phylogeographic methods were used to infer historical range expansion which suggest a south to north bidirectional history and subsequent **parallel evolution** in northern populations where almost all individuals have white flowers. This work adds to the few number of known **ring species**.
 [Hernández, A. I., Landis, J. B., & Specht, C. D. (2022) Phylogeography and population genetics reveal ring species patterns in a highly polymorphic California lily. <i>Journal of Biogeography<i/>. ](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.14313) 
-Please feel free to email me for a pdf of the article.
+ <font size="3"> Please feel free to email me for a pdf of the article.</font>
 
 <br clear="right"/>
 
