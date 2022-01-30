@@ -10,6 +10,8 @@ navbar:
       href: teaching.html
     - text: "BROADER IMPACTS"
       href: outreach.html
+    - text: "CONSERVATION"
+      href: conservation.html
     - text: "CV"
       href: cv.html
     - text: "MISC"
