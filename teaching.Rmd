@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <img src= "IMG_20200108_112820.jpg" align="right" height="40%" width="40%">
 
-#### Teaching Assistantships
+#### **Teaching Assistantships**
 
 ##### In my time as a graduate student at Cornell, I have been appointed teaching assistantships in **plant evolution and biodiversity** and **field biology** for plant science majors, and in general biology for non-majors:   
 
@@ -36,4 +36,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ##### As a senior undergraduate student at UCSB, I also assisted in courses focused on the intersection of religion and ecology:  
 #####  + Teaching Assistant & Guest Lecturer. Native American Religious Traditions & Ecology, Undergrad Course, co-listed in Religious Studies Dept. and Environmental Studies Dept., University of California, Santa Barbara. (Summer and Fall 2011)  
+
+<br>
+
+
+
+#### **Natural history collections**  
+
+
+Native plants of the California Channel Islands exhibit at the Pritzlaff Conservation Center, SBBG, Santa Barbara, CA, July 2016  
+
+<img src= "IMG_3334.jpg" align="center" height="40%" width="40%">
+<img src= "IMG_3339.jpg" align="right" height="20%" width="20%">  
+
+
+I reproduced historical herbarium specimens of California Channel Island native plants for an exhibit on the natural history of the Channel Islands to commemorate the opening of the Pritzlaff Conservation Center at the Santa Barbara Botanic Garden, Santa Barbara, California, July 2016. Many of these specimens were collected by renown California botanists, providing the opportunity to introduce the work of historical botanists to visitors of the exhibit and how their work is used to this day. These reproduced specimens helped illustrate to students and visitors the use of herbaria in documenting and characterizing biodiversity, and reconstructing changes in phenology, climate, biogeography, and vegetation communities.
+
+<img src= "IMG_3327.jpg" align="left" height="30%" width="30%">   
+
+<img src= "IMG_3337.jpg" align="center" height="30%" width="30%">  
+
+<img src= "IMG_3329.jpg" align="right" height="30%" width="30%">  
 
