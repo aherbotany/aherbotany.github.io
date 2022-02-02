@@ -5,7 +5,7 @@ output: html_document
 
 <br>
 
-### Curriculum Vitae as of July 2021
+### Curriculum Vitae
 
 <embed src="https://blogs.cornell.edu/specht/files/2022/02/AIH_CV_01_2022.pdf" width="500" height="375" 
  type="application/pdf">
