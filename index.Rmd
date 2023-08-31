@@ -13,7 +13,7 @@ H5{color:Green !important;}
 </style>
 
 
-<img src= "Cven_diversity_horizontal.png" align="center" height="35%" width="35%">
+<img src= "Cven_diversity_horizontal.png" align="center" height="45%" width="45%">
 
 
 
