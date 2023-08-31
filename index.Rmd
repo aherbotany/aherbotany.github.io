@@ -12,6 +12,11 @@ knitr::opts_chunk$set(echo = TRUE)
 H5{color:Green !important;}
 </style>
 
+
+<img src= "Cven_diversity_horizontal.png" align="center" height="35%" width="35%">
+
+
+
 <br>
 <img src="IMG_7259.JPG" align="right" height="35%" width="35%"> 
 
