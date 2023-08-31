@@ -7,5 +7,5 @@ output: html_document
 
 ### Curriculum Vitae
 
-<embed src="https://blogs.cornell.edu/specht/files/2022/02/AIH_CV_01_2022.pdf" width="500" height="500" 
+<embed src="https://blogs.cornell.edu/specht/files/2023/08/AIH_CV_08_2023.pdf" width="500" height="500" 
  type="application/pdf">
