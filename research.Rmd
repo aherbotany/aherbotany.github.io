@@ -10,11 +10,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
+# Investigating the natural history of mariposa lilies, Calochortus
 
 ##### **Phylogeography and population genetics reveal ring species patterns in the highly polymorphic <i>Calochortus venustus</i> (Liliaceae)** 
 
 <figure>
-  <figcaption> Six genetic clusters show parallel historical range expansion from southern California to northern California. One lineage moved north along the Coast Ranges and another lineage progressed east along the Transeverse Ranges and subsequently north along the Sierra Nevada. Gene flow is exchanged between nearest neighbors.</figcaption>
+  <figcaption> Six genetic clusters show parallel historical range expansion from southern California to northern California. One lineage moved north along the Coast Ranges and another lineage progressed east along the Transeverse Ranges and subsequently north along the Sierra Nevada. Gene flow is exchanged between nearest neighbors. </figcaption>
 <img src= "Biogeo.png" align="right" height="35%" width="35%">
  </figure>
 
@@ -68,9 +69,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-
-
-##### **I regularly present my work at national conferences, symposia for professional societies, and invited seminars.**
 
 
 <p align="center"><img src="IMG_20190616_121625.jpg" height="45%" width="40%"></p>
